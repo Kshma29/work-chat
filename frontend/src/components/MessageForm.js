@@ -35,7 +35,7 @@ function MessageForm() {
         e.preventDefault();
         if(!message)return;
         const today = new Date();
-        const minutes = today.getMinutes() < 10 ? '0' + today.getminutes() : today.getMinutes();
+        const minutes = today.getMinutes() < 10 ? '0' + today.getMinutes() : today.getMinutes();
         const time = today.getHours() + ":" + minutes;
         const roomId = currentRoom;
         socket.emit('message-room', roomId, message, user, time, todayDate);
