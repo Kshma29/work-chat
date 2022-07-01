@@ -1,0 +1,40 @@
+.home_bg{
+    background-image: url(https://media.istockphoto.com/photos/pictogram-teamwork-with-laptops-3d-rendering-picture-id919803140?k=20&m=919803140&s=612x612&w=0&h=HubqdQqGKDs-taWfUI8UIfSfeEbaLAEDUJtd9_Wvr6M=);
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.home-message-icon{
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.times{
+    font-family:'Times New Roman', Times, serif;
+}
+.anim{
+    width: 8.5ch;
+  animation: typing 2s steps(22), blink .5s step-end infinite alternate;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid;
+
+  font-size: 2em;
+}
+
+@keyframes typing {
+    from {
+      width: 0
+    }
+  }
+      
+  @keyframes blink {
+    50% {
+      border-color: transparent
+    }
+  }
+
+ 
