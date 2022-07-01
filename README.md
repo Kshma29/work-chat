@@ -5,19 +5,19 @@
   3. Notifications enabled.
  
 ## Tech-stack:
-   Back-end:
-   MongoDB: Document database to store user data
-   NodeJS: Runtime environment for javascript
-   ExpressJS: Running on the top of NodeJS
+   Back-end:\
+   MongoDB: Document database to store user data\
+   NodeJS: Runtime environment for javascript\
+   ExpressJS: Running on the top of NodeJS\
   
-   Middle-ware:
-   Mongoose: Object Data Modelling for MongoDB
-   Cloudinary: For uploading images
+   Middle-ware:\
+   Mongoose: Object Data Modelling for MongoDB\
+   Cloudinary: For uploading images\
   
-   Front-end:
-   React JS
-   CSS
-   React-bootstrap
+   Front-end:\
+   React JS\
+   CSS\
+   React-bootstrap\
   ![Screenshot (188)](https://user-images.githubusercontent.com/77921246/176799849-61239d9b-f6d4-4230-8ecf-2e3f20e252e1.png)
   ![Screenshot (190)](https://user-images.githubusercontent.com/77921246/176799859-1e4d158c-48f7-419f-bcf0-c1fdd91a2d2e.png)
   ![Screenshot (191)](https://user-images.githubusercontent.com/77921246/176799867-0c6960bc-b2f5-42f6-aa97-58bfbaa29c1a.png)
